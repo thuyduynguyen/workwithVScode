@@ -1,3 +1,3 @@
 a= 3
-b= a+1
+b= a+2
 print ("Sum of a + b: ", a+b)
